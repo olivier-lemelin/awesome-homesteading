@@ -20,6 +20,7 @@ A section for general resources that cover a wide variety of topics.
 ### Blogs & Websites
 
 - [Morning Chores](https://morningchores.com/) - A blog about homesteading and gardening; updated regularly.
+- [Permies](https://permies.com/forums) - A large forum about Permaculture.
 - [The Survivor's library](http://www.survivorlibrary.com/library-download.html) - A large collection of homesteading and technology books that have entered the public domain.
 
 ## Agriculture
