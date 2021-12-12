@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [General Resources](#General Resources)
+- [General Resources](#General-Resources)
 - [Agriculture](#Agriculture)
 - [Another Section](#another-section)
 
